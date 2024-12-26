@@ -15,6 +15,7 @@ int avg(int sum, size_t size)
 {
     return sum / size;
 }
+/*
 int main() {
     int num[5];
     cout << "숫자 다섯개를 입력해 주세요";
@@ -27,3 +28,4 @@ int main() {
     cout << avg(sum(num, sizeof(num) / sizeof(int)), sizeof(num) / sizeof(int)) << endl;
     return 0;
 }
+*/
