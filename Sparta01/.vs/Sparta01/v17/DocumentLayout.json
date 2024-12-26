@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Sparta\\Sparta\\Sparta01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98831A76-4836-47EE-996C-7627AB5F5AB3}|Sparta01\\Sparta01.vcxproj|D:\\Git\\Sparta\\Sparta\\Sparta01\\Sparta01\\01_Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98831A76-4836-47EE-996C-7627AB5F5AB3}|Sparta01\\Sparta01.vcxproj|solutionrelative:Sparta01\\01_Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98831A76-4836-47EE-996C-7627AB5F5AB3}|Sparta01\\Sparta01.vcxproj|D:\\Git\\Sparta\\Sparta\\Sparta01\\Sparta01\\01_essential.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98831A76-4836-47EE-996C-7627AB5F5AB3}|Sparta01\\Sparta01.vcxproj|solutionrelative:Sparta01\\01_essential.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "01_essential.cpp",
+              "DocumentMoniker": "D:\\Git\\Sparta\\Sparta\\Sparta01\\Sparta01\\01_essential.cpp",
+              "RelativeDocumentMoniker": "Sparta01\\01_essential.cpp",
+              "ToolTip": "D:\\Git\\Sparta\\Sparta\\Sparta01\\Sparta01\\01_essential.cpp",
+              "RelativeToolTip": "Sparta01\\01_essential.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T05:36:04.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "01_Base.cpp",
+              "DocumentMoniker": "D:\\Git\\Sparta\\Sparta\\Sparta01\\Sparta01\\01_Base.cpp",
+              "RelativeDocumentMoniker": "Sparta01\\01_Base.cpp",
+              "ToolTip": "D:\\Git\\Sparta\\Sparta\\Sparta01\\Sparta01\\01_Base.cpp",
+              "RelativeToolTip": "Sparta01\\01_Base.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T05:35:46.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
