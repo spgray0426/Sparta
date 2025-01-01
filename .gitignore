@@ -41,3 +41,5 @@
 *.sln
 *.vcxproj
 *.vcxproj.filters
+*.recipe
+*.idb
