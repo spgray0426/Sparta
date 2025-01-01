@@ -38,3 +38,6 @@
 
 *.vs
 *.idea
+*.sln
+*.vcxproj
+*.vcxproj.filters
