@@ -64,7 +64,7 @@ public:
        
     }
 };
-/*
+
 int main() {
     BookManager manager;
 
@@ -101,7 +101,7 @@ int main() {
             int type = 1;
             while (true)
             {
-                string serchstring;
+                string serchstring;  
                 cout << " 검색 창" << endl;
                 cout << "1. 책 이름으로 검색" << endl;
                 cout << "2. 작가 명으로 검색" << endl;
@@ -143,4 +143,4 @@ int main() {
     }
 
     return 0; // 프로그램 정상 종료
-}*/
+}
