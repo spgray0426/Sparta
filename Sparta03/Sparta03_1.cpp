@@ -23,7 +23,7 @@ public:
     {
         if (currentSize > 0)
         {
-            data[--currentSize] =T();
+            data[--currentSize] = T();
         }
     }
 
