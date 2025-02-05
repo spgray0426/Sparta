@@ -25,6 +25,7 @@ protected:
 	virtual void BeginPlay() override;
 	virtual void Tick(float DeltaTime) override;
 	
+
 public:	
 
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
@@ -44,6 +45,7 @@ public:
 	//Space/Shift
 	UFUNCTION()
 	void MoveUpDown(const FInputActionValue& value);
+	void MoveUpDownEnd(const FInputActionValue& value);
 	//W/S
 	UFUNCTION()
 	void MoveForwardBack(const FInputActionValue& value);
@@ -59,4 +61,10 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
 	float MoveSpeed;
+
+	bool CheckGroundCollision(float DeltaTime);
+	FVector CurrentVelocity;
+	float Gracity = -980.0f;
+	bool bIsFalling;
+	bool bIsMoving;
 };
